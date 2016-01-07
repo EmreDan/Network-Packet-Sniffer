@@ -1,5 +1,5 @@
 # Network-Packet-Sniffer
 
-A Network Packet Sniffer that prompts the user to choose an ethernet device and capture / sniff the packets coming trough that device. 
+A Network Packet Sniffer that prompts the user to choose an ethernet device and sniff packets coming trough that device. 
 
-You can also choose to filter the packets. 
+The program also lets you choose the packet type and filter it accordingly.
